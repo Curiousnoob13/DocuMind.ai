@@ -1,0 +1,6 @@
+
+{
+  "name": "DocuMind AI",
+  "description": "Professional AI Document Intelligence. Upload PDFs and extract insights instantly using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
